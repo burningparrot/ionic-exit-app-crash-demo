@@ -1,0 +1,7 @@
+{
+  "name": "exitApp crash demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
